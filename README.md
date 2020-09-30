@@ -1,10 +1,23 @@
-## Welcome to GitHub Pages
+## Alexandre Djossou Portfolio
 
-You can use the [editor on GitHub](https://github.com/dnalexen/dnalexen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an overview of my data science projects. I have a big interest in Artificial Intelligence and its applications in business intelligence, computer vision, natural language processing and IoT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My experiences include an understanding of classic Machine Learning and Deep Learning algorithms. I have developped sales forecasting, customers churn prediction anomalies detection models and computer vision application with Python and its well known libraries such as sklearn, tensorflow, pytorch.
 
-### Markdown
+Hereafter, my projects.
+
+to remove: You can use the [editor on GitHub](https://github.com/dnalexen/dnalexen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+to remove: Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Data Science projects
+
+* Customer Churn Prediction
+* Link prediction
+* AI for Water Meter Reading
+* Defect Prediction Production Lines
+* Iris Dataset Exploration
+* Real Estate Price Prediction
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
