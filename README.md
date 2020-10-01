@@ -2,7 +2,7 @@
 
 This is an overview of my data science projects. I have a big interest in Artificial Intelligence and its applications in Business Intelligence, Computer Vision, Natural Language Processing and IoT.
 
-My experiences include an understanding of classic Machine Learning and Deep Learning algorithms. I have developed Sales Forecasting, Customers Churn Prediction, Anomalies Detection models and Computer Vision application with Python and its well known libraries such as sklearn, tensorflow and pytorch.
+My experiences include an understanding of classic Machine Learning and Deep Learning algorithms. I have developed Sales Forecasting, Customers Churn Prediction, Anomalies Detection models and Computer Vision application with Python and its well known libraries such as Numpy, Pandas, PyTorch, Sklearn, TensorFlow.
 
 Hereafter, my projects.
 
@@ -15,7 +15,7 @@ to remove: Whenever you commit to this repository, GitHub Pages will run [Jekyll
 * Customer Churn Prediction
 * Link prediction
 * AI for Water Meter Reading
-* Defect Prediction Production Lines
+* Defect Prediction on Production Lines
 * Iris Dataset Exploration
 * Real Estate Price Prediction
 
