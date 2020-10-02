@@ -1,5 +1,3 @@
-github:
-  is_project_page: false
 ## Alexandre Djossou Portfolio
 
 This is an overview of my data science projects. I have a big interest in Artificial Intelligence and its applications in Business Intelligence, Computer Vision, Natural Language Processing and IoT.
