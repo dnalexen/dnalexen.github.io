@@ -18,6 +18,7 @@ to remove: Whenever you commit to this repository, GitHub Pages will run [Jekyll
 * Defect Prediction on Production Lines
 * Iris Dataset Exploration
 * Real Estate Price Prediction
+* Weather forecast
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
