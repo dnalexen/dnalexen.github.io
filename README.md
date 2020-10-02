@@ -6,10 +6,6 @@ My experiences include an understanding of classic Machine Learning and Deep Lea
 
 Hereafter, my projects.
 
-to remove: You can use the [editor on GitHub](https://github.com/dnalexen/dnalexen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-to remove: Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Data Science projects
 
 #### 1- Customer Churn Prediction
