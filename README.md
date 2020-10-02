@@ -20,7 +20,7 @@ Brief explanation of the project and the algorithm used - add link nbviewer(http
 #### 4- Defect Prediction on Production Lines
 Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
 
-#### 5- Iris Dataset Exploration
+#### 5- News analysis
 Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
 
 #### 6- Real Estate Price Prediction
