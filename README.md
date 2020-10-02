@@ -12,13 +12,26 @@ to remove: Whenever you commit to this repository, GitHub Pages will run [Jekyll
 
 ### Data Science projects
 
-* Customer Churn Prediction
-* Link prediction
-* AI for Water Meter Reading
-* Defect Prediction on Production Lines
-* Iris Dataset Exploration
-* Real Estate Price Prediction
-* Weather forecast
+#### 1- Customer Churn Prediction
+Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+
+#### 2- Link prediction
+Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+
+#### 3- AI for Water Meter Reading
+Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+
+#### 4- Defect Prediction on Production Lines
+Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+
+#### 5- Iris Dataset Exploration
+Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+
+#### 6- Real Estate Price Prediction
+Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+
+#### 7- Weather forecast
+Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
