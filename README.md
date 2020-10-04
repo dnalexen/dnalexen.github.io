@@ -9,10 +9,15 @@ Hereafter, my projects.
 ### Data Science projects
 
 #### 1- Customer Churn Prediction
-Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+The objective of the project is to predict if a customer of a Telecom company is about to leave. We used the unsupervised and supervised approaches.
+The notebook is available at [NBviewer] (https://nbviewer.jupyter.org/) or on the [project's Github Repository](https://github.com/dnalexen/Customer-Churn-Prediction)
 
 #### 2- Link prediction
-Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+The goal of this project is to predict whether or not two restaurants facebook pages will mutually like them in the future.
+The dataset is composed of two files:
+'fb-pages-food.nodes' contains the information on the nodes or the restaurants facebook pages,
+'fb-pages-food.edges' contains the existing edges between the nodes: there is an edge between two nodes if these two nodes or pages have mutually liked them.
+The notebook is available at [NBviewer] (https://nbviewer.jupyter.org/) or on the [project's Github Repository](https://github.com/dnalexen/link_prediction-fb_pages_food)
 
 #### 3- AI for Water Meter Reading
 The objective of this project is to design an algorithm to read the exact consumption index from a valid picture of a meter.
@@ -21,13 +26,12 @@ The model is live on a [web app](https://ai-water-meter-reading.herokuapp.com/).
 You can have a look on the code on the [project's Github Repository](https://github.com/dnalexen/ai_water_meter_reading). 
 
 #### 4- Defect Prediction on Production Lines
-Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
 
-#### 5- News analysis
-Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
 
-#### 6- Real Estate Price Prediction
-Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+#### 5- News Aggregator
+The objective of the project is to predict the category to which an article belongs to given its headline.The notebook is available at [NBviewer] 
+The notebook is available at (https://nbviewer.jupyter.org/) or on the [project's Github Repository](https://github.com/dnalexen/News-Aggregator).
 
-#### 7- Weather forecast
-Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+#### 6- Weather Forecast
+The objective of the project is to predict the weather of the city of San Francisco! In the first step, we would predict the temperature, knowing the information of the past days.
+The notebook is available at (https://nbviewer.jupyter.org/) or on the [project's Github Repository](https://github.com/dnalexen/Weather-Forecast).
