@@ -17,7 +17,7 @@ The goal of this project is to predict whether or not two restaurants facebook p
 The dataset is composed of two files:
 'fb-pages-food.nodes' contains the information on the nodes or the restaurants facebook pages,
 'fb-pages-food.edges' contains the existing edges between the nodes: there is an edge between two nodes if these two nodes or pages have mutually liked them.
-The notebook is available at [Google Colab] (https://colab.research.google.com/drive/1qw8wfIk-wylA34gk73cPhf6T8BjJD1P0) or on the [project's Github Repository](https://github.com/dnalexen/link_prediction-fb_pages_food)
+The notebook is available at [Google Colab](https://colab.research.google.com/drive/1qw8wfIk-wylA34gk73cPhf6T8BjJD1P0) or on the [project's Github Repository](https://github.com/dnalexen/link_prediction-fb_pages_food)
 
 #### 3- AI for Water Meter Reading
 The objective of this project is to design an algorithm to read the exact consumption index from a valid picture of a meter.
