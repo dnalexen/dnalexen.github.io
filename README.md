@@ -25,13 +25,13 @@ We used an implementation of the YOLOv4 algorithm that we customed to our [datas
 The model is live on a [web app](https://ai-water-meter-reading.herokuapp.com/).
 You can have a look on the code on the [project's Github Repository](https://github.com/dnalexen/ai_water_meter_reading). 
 
-#### 4- Defect Prediction on Production Lines
-
-
-#### 5- News Aggregator
+#### 4- News Aggregator
 The objective of the project is to predict the category to which an article belongs to given its headline.The notebook is available at [NBviewer] 
 The notebook is available at (https://nbviewer.jupyter.org/) or on the [project's Github Repository](https://github.com/dnalexen/News-Aggregator).
 
-#### 6- Weather Forecast
+#### 5- Weather Forecast
 The objective of the project is to predict the weather of the city of San Francisco! In the first step, we would predict the temperature, knowing the information of the past days.
 The notebook is available at (https://nbviewer.jupyter.org/) or on the [project's Github Repository](https://github.com/dnalexen/Weather-Forecast).
+
+
+#### 6- Defect Prediction on Production Lines
