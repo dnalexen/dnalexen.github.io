@@ -15,7 +15,10 @@ Brief explanation of the project and the algorithm used - add link nbviewer(http
 Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
 
 #### 3- AI for Water Meter Reading
-Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
+The objective of this project is to design an algorithm to read the exact consumption index from a valid picture of a meter.
+We used an implementation of the YOLOv4 algorithm that we customed to our [dataset](https://challengedata.ens.fr/participants/challenges/30/).
+The model is live on a [web app](https://ai-water-meter-reading.herokuapp.com/).
+You can have a look on the code on the [project's Github Repository](https://github.com/dnalexen/ai_water_meter_reading). 
 
 #### 4- Defect Prediction on Production Lines
 Brief explanation of the project and the algorithm used - add link nbviewer(https://nbviewer.jupyter.org/) and github
