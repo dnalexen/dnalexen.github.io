@@ -10,7 +10,7 @@ Hereafter, my projects.
 
 #### 1- Customer Churn Prediction
 The objective of the project is to predict if a customer of a Telecom company is about to leave. We used the unsupervised and supervised approaches.
-The notebook is available on [Google Colab](to add) or on the [project's Github Repository](https://github.com/dnalexen/Customer-Churn-Prediction)
+The notebook is available on [Google Colab] (to add) or on the [project's Github Repository](https://github.com/dnalexen/Customer-Churn-Prediction)
 
 #### 2- Link prediction
 The goal of this project is to predict whether or not two restaurants facebook pages will mutually like them in the future.
@@ -27,11 +27,11 @@ You can have a look on the code on the [project's Github Repository](https://git
 
 #### 4- News Aggregator
 The objective of the project is to predict the category to which an article belongs to given its headline.The notebook is available at [NBviewer] 
-The notebook is available on [Google Colab](to add) or on the [project's Github Repository](https://github.com/dnalexen/News-Aggregator).
+The notebook is available on [Google Colab] (to add) or on the [project's Github Repository](https://github.com/dnalexen/News-Aggregator).
 
 #### 5- Weather Forecast
 The objective of the project is to predict the weather of the city of San Francisco! In the first step, we would predict the temperature, knowing the information of the past days.
-The notebook is available at [Google Colab](to add) or on the [project's Github Repository](https://github.com/dnalexen/Weather-Forecast).
+The notebook is available at [Google Colab] (to add) or on the [project's Github Repository](https://github.com/dnalexen/Weather-Forecast).
 
 
 #### 6- Defect Prediction on Production Lines
