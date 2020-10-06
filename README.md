@@ -16,7 +16,7 @@ You can have a look on the code on the [project's Github Repository](https://git
 
 #### 2- Customer Churn Prediction
 The objective of the project is to predict if a customer of a Telecom company is about to leave. We used the unsupervised and supervised approaches.
-The notebook is available on [Google Colab] (to add) or on the [project's Github Repository](https://github.com/dnalexen/Customer-Churn-Prediction)
+The notebook is available on [Google Colab](https://colab.research.google.com/drive/1hxmAAv_u4T6FptgBtSZQXdnVlsX8vp7y?usp=sharing) or on the [project's Github Repository](https://github.com/dnalexen/Customer-Churn-Prediction)
 
 #### 3- Link prediction
 The goal of this project is to predict whether or not two restaurants facebook pages will mutually like them in the future.
