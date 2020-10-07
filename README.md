@@ -27,7 +27,7 @@ The notebook is available at [Google Colab](https://colab.research.google.com/dr
 
 #### 4- News Analysis
 The objective of the project is to predict the category to which an article belongs to given its headline.The notebook is available at [NBviewer] 
-The notebook is available on [Google Colab](https://colab.research.google.com/drive/1A9xwy11OE_ZBrvljHHpnWdr57tg4SHS4?usp=sharing) or on the [project's Github Repository](https://github.com/dnalexen/News-Aggregator).
+The notebook is available on [Google Colab](https://colab.research.google.com/drive/1A9xwy11OE_ZBrvljHHpnWdr57tg4SHS4?usp=sharing) or on the [project's Github Repository](https://github.com/dnalexen/News-Analysis).
 
 #### 5- Weather Forecast
 The objective of the project is to predict the weather of the city of San Francisco! In the first step, we would predict the temperature, knowing the information of the past days.
