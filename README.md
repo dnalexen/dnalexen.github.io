@@ -31,3 +31,7 @@ The objective of the project is to predict the category to which an article belo
 #### 5- Weather Forecast
 The objective of the project is to predict the weather of the city of San Francisco! In the first step, we would predict the temperature, knowing the information of the past days.
 The notebook is available at [Google Colab](https://colab.research.google.com/drive/1jSXDF-ncZLScHIvKnP0X_NGaBbRurxiS?usp=sharing) or on the [project's Github Repository](https://github.com/dnalexen/Weather-Forecast).
+
+#### 5- Auto Fuel Consumption prediction - Deployment on GCP with Kubernetes
+The objective of the project is to predict the fuel consumption of a car given some of its parameters such as the number of cylinders, the horsepower, the weight, the acceleration, the origin and the model year. First, we built a simple prediction model with a SKlearn Linear Regression algorithm. Then, we built an API with our model that we wrapped in a docker image. Finally, we deploy this docker image on Google Cloud Platform with Kubernetes.
+The notebook is available at [Google Colab]() or on the [project's Github Repository](https://github.com/dnalexen/auto-mpg).
