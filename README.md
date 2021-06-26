@@ -1,10 +1,10 @@
 ## Alexandre Djossou Portfolio
 
-This is an overview of my data science projects. I have a big interest in Artificial Intelligence and its applications in Business Intelligence, Computer Vision, Natural Language Processing and IoT.
+This is an overview of some of my data science projects. I have a big interest in Artificial Intelligence and its applications in Business Intelligence, Computer Vision, Natural Language Processing and IoT.
 
 My experiences include an understanding of classic Machine Learning and Deep Learning algorithms. I have developed Sales Forecasting, Customers Churn Prediction, Anomalies Detection models and Computer Vision application with Python and its well known libraries such as Numpy, Pandas, PyTorch, Sklearn, TensorFlow.
 
-Hereafter, my projects.
+Hereafter, some projects.
 
 ### Data Science projects
 
