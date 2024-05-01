@@ -11,7 +11,7 @@ Hereafter, some projects.
 #### 1- AI for Water Meter Reading
 The objective of this project was to design an algorithm to read the exact consumption index from a valid picture of a meter.
 We used an implementation of the YOLOv4 algorithm that we customed to our [dataset](https://challengedata.ens.fr/participants/challenges/30/).
-The model is live on a [web app](http://dnalexen.pythonanywhere.com/).
+The model is live on a [web app](https://aiformeterreading-egtfacxaga-ew.a.run.app).
 You can have a look on the code on the [project's Github Repository](https://github.com/dnalexen/ai_water_meter_reading). 
 
 #### 2- Customer Churn Prediction
